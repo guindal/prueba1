@@ -1,4 +1,4 @@
-## confirm on master with no  vic changes
+## confirm on master without no  vic changes
 git status
 
 branchName=integration-test-$RANDOM
